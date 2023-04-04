@@ -3,3 +3,4 @@ settings.json
 **.code-workspace
 .env
 **/__pycache__/
+**/db*
